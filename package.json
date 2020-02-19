@@ -17,7 +17,7 @@
     "url": "https://github.com/bentatum/better-react-spinkit/issues"
   },
   "dependencies": {
-    "inline-style-prefixer": "^3.0.3",
+    "inline-style-prefixer": "5.1.2",
     "minify-css-string": "^1.0.0"
   },
   "peerDependencies": {
