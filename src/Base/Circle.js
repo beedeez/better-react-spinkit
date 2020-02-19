@@ -4,7 +4,7 @@ import React from 'react'
 import { range } from 'lodash'
 import PropTypes from 'prop-types'
 import { animate, defaults, preside } from '../util'
-import { prefix } from 'inline-style-prefixer'
+import { prefixer } from 'inline-style-prefixer'
 
 const rotate = [
   0,
